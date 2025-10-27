@@ -3,4 +3,3 @@ function rollDice() {
   let imageSource = 'img/' + randomNumber+ '.png';
   document.getElementById('ludo').src = imageSource;
 }
-// Ludo-----Done
